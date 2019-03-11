@@ -1,0 +1,30 @@
+C:\Users\Alex\source\repos\Save the Humans\Save the Humans\bin\Debug\Save the Humans.exe.config
+C:\Users\Alex\source\repos\Save the Humans\Save the Humans\bin\Debug\Save the Humans.exe
+C:\Users\Alex\source\repos\Save the Humans\Save the Humans\bin\Debug\Save the Humans.pdb
+C:\Users\Alex\source\repos\Save the Humans\Save the Humans\obj\Debug\Save the Humans.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\Save the Humans\Save the Humans\obj\Debug\MainWindow.g.cs
+C:\Users\Alex\source\repos\Save the Humans\Save the Humans\obj\Debug\App.g.cs
+C:\Users\Alex\source\repos\Save the Humans\Save the Humans\obj\Debug\Save the Humans_MarkupCompile.cache
+C:\Users\Alex\source\repos\Save the Humans\Save the Humans\obj\Debug\Save the Humans_MarkupCompile.lref
+C:\Users\Alex\source\repos\Save the Humans\Save the Humans\obj\Debug\MainWindow.baml
+C:\Users\Alex\source\repos\Save the Humans\Save the Humans\obj\Debug\Save the Humans.g.resources
+C:\Users\Alex\source\repos\Save the Humans\Save the Humans\obj\Debug\Save_the_Humans.Properties.Resources.resources
+C:\Users\Alex\source\repos\Save the Humans\Save the Humans\obj\Debug\Save the Humans.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\Save the Humans\Save the Humans\obj\Debug\Save the Humans.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Save the Humans\Save the Humans\obj\Debug\Save the Humans.exe
+C:\Users\Alex\source\repos\Save the Humans\Save the Humans\obj\Debug\Save the Humans.pdb
+F:\visual studio projects\Save the Humans\Save the Humans\bin\Debug\Save the Humans.exe.config
+F:\visual studio projects\Save the Humans\Save the Humans\bin\Debug\Save the Humans.exe
+F:\visual studio projects\Save the Humans\Save the Humans\bin\Debug\Save the Humans.pdb
+F:\visual studio projects\Save the Humans\Save the Humans\obj\Debug\Save the Humans.csprojAssemblyReference.cache
+F:\visual studio projects\Save the Humans\Save the Humans\obj\Debug\MainWindow.g.cs
+F:\visual studio projects\Save the Humans\Save the Humans\obj\Debug\App.g.cs
+F:\visual studio projects\Save the Humans\Save the Humans\obj\Debug\Save the Humans_MarkupCompile.cache
+F:\visual studio projects\Save the Humans\Save the Humans\obj\Debug\Save the Humans_MarkupCompile.lref
+F:\visual studio projects\Save the Humans\Save the Humans\obj\Debug\MainWindow.baml
+F:\visual studio projects\Save the Humans\Save the Humans\obj\Debug\Save the Humans.g.resources
+F:\visual studio projects\Save the Humans\Save the Humans\obj\Debug\Save_the_Humans.Properties.Resources.resources
+F:\visual studio projects\Save the Humans\Save the Humans\obj\Debug\Save the Humans.csproj.GenerateResource.cache
+F:\visual studio projects\Save the Humans\Save the Humans\obj\Debug\Save the Humans.csproj.CoreCompileInputs.cache
+F:\visual studio projects\Save the Humans\Save the Humans\obj\Debug\Save the Humans.exe
+F:\visual studio projects\Save the Humans\Save the Humans\obj\Debug\Save the Humans.pdb
